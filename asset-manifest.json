@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/IshikawaFish/static/css/main.e6c13ad2.css",
-    "main.js": "/IshikawaFish/static/js/main.ddd623d1.js",
+    "main.js": "/IshikawaFish/static/js/main.cf3e027a.js",
     "static/js/453.26faf7e3.chunk.js": "/IshikawaFish/static/js/453.26faf7e3.chunk.js",
     "index.html": "/IshikawaFish/index.html",
     "main.e6c13ad2.css.map": "/IshikawaFish/static/css/main.e6c13ad2.css.map",
-    "main.ddd623d1.js.map": "/IshikawaFish/static/js/main.ddd623d1.js.map",
+    "main.cf3e027a.js.map": "/IshikawaFish/static/js/main.cf3e027a.js.map",
     "453.26faf7e3.chunk.js.map": "/IshikawaFish/static/js/453.26faf7e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ddd623d1.js"
+    "static/js/main.cf3e027a.js"
   ]
 }
