@@ -1260,7 +1260,7 @@
     "raw_edible": false,
     "shellfish": true,
     "texture": "しっかり",
-    "cooking_methods": ["焼き", "煮る"]
+    "cooking_methods": ["焼き", "煮る","寿司"]
   },
   "ﾏﾅﾏｺ": {
     "available_months": [1, 2, 3, 4, 12],
@@ -1480,7 +1480,7 @@
     "raw_edible": false,
     "shellfish": true,
     "texture": "しっかり",
-    "cooking_methods": ["焼き", "煮る"]
+    "cooking_methods": ["焼き", "煮る","寿司"]
   },
   "ｼﾛｶﾞｽ(ｸﾛｻﾞｺｴﾋﾞ)": {
     "available_months": [2, 3, 4, 5, 10],
