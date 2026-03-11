@@ -57,7 +57,7 @@
     "available_months": [3, 4, 5],
     "monthly_avg": { "1": 167.2680952380952, "2": 325.4709523809523, "3": 1170.2304761904763, "4": 2610.4480952380964, "5": 1089.3185714285714, "6": 51.36238095238096, "7": 2.6385714285714283, "8": 1.0857142857142856, "9": 3.415714285714286, "10": 9.853809523809522, "11": 14.760952380952382, "12": 12.906666666666668 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -165,7 +165,7 @@
     "available_months": [5, 6, 7, 8, 11, 12],
     "monthly_avg": { "1": 4222.117619047616, "2": 1479.6976190476187, "3": 1599.9952380952386, "4": 2831.4804761904747, "5": 11394.574761904762, "6": 7760.985238095238, "7": 6843.5528571428595, "8": 7411.816666666664, "9": 5636.202380952382, "10": 5523.5380952380965, "11": 11765.270476190472, "12": 9420.259523809518 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -174,7 +174,7 @@
     "available_months": [1, 11, 12],
     "monthly_avg": { "1": 255453.55285714293, "2": 157974.15238095238, "3": 202700.7466666667, "4": 118503.22523809521, "5": 219880.41857142854, "6": 198489.6685714286, "7": 76789.40476190479, "8": 90796.70380952382, "9": 121632.20571428575, "10": 160774.96238095243, "11": 207517.80857142864, "12": 343461.30571428593 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -210,7 +210,7 @@
     "available_months": [5, 6, 7, 10, 11],
     "monthly_avg": { "1": 179723.61476190467, "2": 243445.4600000002, "3": 236218.44666666666, "4": 163168.09095238088, "5": 392437.52142857196, "6": 593877.4514285723, "7": 464572.5747619044, "8": 218077.7038095239, "9": 196311.0271428569, "10": 345312.14238095266, "11": 270903.76428571413, "12": 127299.58476190484 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -255,7 +255,7 @@
     "available_months": [4, 5, 6, 7, 10],
     "monthly_avg": { "1": 9551.263809523807, "2": 15667.26761904762, "3": 20851.12761904762, "4": 60269.32523809528, "5": 147872.3704761903, "6": 75642.3571428571, "7": 45551.92285714288, "8": 35724.085714285684, "9": 28436.512857142876, "10": 40444.34476190476, "11": 21255.767619047623, "12": 19051.320000000014 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -318,7 +318,7 @@
     "available_months": [3, 5, 6, 7, 9, 10],
     "monthly_avg": { "1": 296912.2109523811, "2": 288547.72285714274, "3": 407449.09809523774, "4": 221883.67809523802, "5": 406211.30333333305, "6": 553324.5852380951, "7": 487487.61571428564, "8": 333965.52238095243, "9": 421125.10285714286, "10": 525516.6523809526, "11": 307746.7185714284, "12": 180122.06571428565 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -327,7 +327,7 @@
     "available_months": [4, 5, 7, 9, 10, 11],
     "monthly_avg": { "1": 20013.955714285705, "2": 8179.90095238095, "3": 17347.155714285705, "4": 99367.43047619048, "5": 123250.35809523807, "6": 86935.56904761904, "7": 162006.98809523825, "8": 97025.79952380959, "9": 230400.25476190457, "10": 219347.51904761908, "11": 137771.6995238095, "12": 75999.31999999999 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -336,7 +336,7 @@
     "available_months": [5, 6, 7],
     "monthly_avg": { "1": 1302.7714285714285, "2": 954.2433333333336, "3": 780.5238095238097, "4": 895.5004761904761, "5": 7594.184761904762, "6": 49739.49142857143, "7": 21967.658095238097, "8": 7308.476190476191, "9": 2426.3, "10": 173.06809523809522, "11": 81.16809523809523, "12": 333.1309523809524 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -345,7 +345,7 @@
     "available_months": [1, 2, 6, 7, 8, 12],
     "monthly_avg": { "1": 16814.98095238095, "2": 9815.757142857146, "3": 6248.9685714285715, "4": 8537.605714285717, "5": 7894.656666666667, "6": 24173.911428571428, "7": 12000.802857142857, "8": 10362.161904761906, "9": 4871.657142857143, "10": 3236.721428571428, "11": 3557.8809523809505, "12": 7553.706190476194 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -372,7 +372,7 @@
     "available_months": [3, 4, 5, 10, 11],
     "monthly_avg": { "1": 3645.6861904761927, "2": 3396.210952380954, "3": 6195.573333333328, "4": 9554.323333333341, "5": 11692.297142857144, "6": 6258.2814285714285, "7": 4643.379047619044, "8": 4001.2952380952406, "9": 2969.7852380952418, "10": 4533.586666666661, "11": 4777.717142857143, "12": 3950.3138095238114 },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -465,7 +465,7 @@
       "12": 15626.63571428571
     },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -487,7 +487,7 @@
       "12": 458.6723809523811
     },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -531,7 +531,7 @@
       "12": 1409.471904761905
     },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -708,7 +708,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -730,7 +730,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -751,8 +751,8 @@
       "12": 25432.99285714286
     },
     "years_observed": 21,
-    "raw_edible": false,
-    "shellfish": false,
+    "raw_edible": true,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -774,7 +774,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -840,7 +840,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -862,7 +862,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -905,7 +905,7 @@
       "12": 339.457619047619
     },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -1214,7 +1214,7 @@
     },
     "years_observed": 10,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -1236,7 +1236,7 @@
     },
     "years_observed": 18,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -1258,7 +1258,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -1478,7 +1478,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -1500,7 +1500,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -1522,7 +1522,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -1566,7 +1566,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -1676,7 +1676,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -1698,7 +1698,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -1873,7 +1873,7 @@
       "12": 526.4190476190477
     },
     "years_observed": 21,
-    "raw_edible": false,
+    "raw_edible": true,
     "shellfish": false,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
@@ -1984,7 +1984,7 @@
     },
     "years_observed": 15,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
@@ -2006,7 +2006,7 @@
     },
     "years_observed": 12,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかりと",
     "cooking_methods": ["焼き", "煮る"]
   },
