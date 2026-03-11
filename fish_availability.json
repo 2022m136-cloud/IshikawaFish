@@ -1148,7 +1148,7 @@
     },
     "years_observed": 21,
     "raw_edible": false,
-    "shellfish": false,
+    "shellfish": true,
     "texture": "しっかり",
     "cooking_methods": ["焼き", "煮る"]
   },
